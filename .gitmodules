@@ -1,3 +1,39 @@
 [submodule "YouCompleteMe"]
         path = bundle/YouCompleteMe
         url = https://github.com/Valloric/YouCompleteMe.git
+
+[submodule "minibufexpl"]
+        path = bundle/minibufexpl.vim
+        url = https://github.com/fholgado/minibufexpl.vim.git
+
+[submodule "molokai"]
+        path = bundle/molokai
+        url = https://github.com/tomasr/molokai.git
+
+[submodule "nerdtree"]
+        path = bundle/nerdtree
+        url = https://github.com/scrooloose/nerdtree.git
+
+[submodule "salt-vim"]
+        path = bundle/salt-vim
+        url = https://github.com/saltstack/salt-vim.git
+
+[submodule "vim-airline"]
+        path = bundle/vim-airline
+        url = https://github.com/bling/vim-airline.git
+
+[submodule "vim-colors-solarized"]
+        path = bundle/vim-colors-solarized
+        url = https://github.com/altercation/vim-colors-solarized
+
+[submodule "vim-puppet"]
+        path = bundle/vim-puppet
+        url = https://github.com/rodjek/vim-puppet.git
+
+[submodule "vim-sensible"]
+        path = bundle/vim-sensible
+        url = https://github.com/tpope/vim-sensible.git
+
+[submodule "vim-surround"]
+        path = bundle/vim-surround
+        url = https://github.com/tpope/vim-surround.git
